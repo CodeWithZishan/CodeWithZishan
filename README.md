@@ -44,11 +44,13 @@ I'm a **Full Stack MERN Developer**, **SEO Specialist**, and **Tech Enthusiast**
 
 🌎 Connect With Me
 
-🌐 Portfolio: codewithzishan.netlify.app
+🌐 Portfolio: codewithzishan.in
 
-✍️ Medium: @codewithzishan
+✍️ Medium: @zishandesigns
 
 📸 Instagram: @codewithzishan
+
+📸 Instagram (Design): @zishandesigns
 
 📸 Instagram (Personal): @sincerelyzishan
 
